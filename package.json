@@ -1,0 +1,33 @@
+{
+    "name": "oneday",
+    "version": "9.1.1",
+    "description": "NO MORE WAR! Spread peace and love, not hate. Forgive those that have hurt you, none of us are perfect.",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Lovin' You! Peace not War, Forgive them. ♥\" && node test.js && exit 1"
+    },
+    "engines": {
+        "node": ">=14"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/RIAEvangelist/oneday.git"
+    },
+    "keywords": [
+        "ukraine",
+        "conflict",
+        "nomorewar",
+        "peace",
+        "love",
+        "forgive",
+        "none_of_us_are_perfect",
+        "peaceful_protest"
+    ],
+    "author": "Brandon Nozaki Miller",
+    "license": "GPLv3",
+    "bugs": {
+        "url": "https://github.com/RIAEvangelist/oneday"
+    },
+    "homepage": "https://github.com/RIAEvangelist/oneday"
+}
