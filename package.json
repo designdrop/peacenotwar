@@ -25,7 +25,7 @@
         "peaceful_protest"
     ],
     "author": "Brandon Nozaki Miller",
-    "license": "GPLv3",
+    "license": "GPL-3.0-or-later",
     "bugs": {
         "url": "https://github.com/RIAEvangelist/oneday"
     },
