@@ -1,4 +1,4 @@
-#One Love
+# OneDay
 ======
 
 This code serves as a non-destructive example of why controlling your node modules is important. It also serves as a non-violent protest against Rissias aggression that threatens the world right now.
