@@ -15,7 +15,7 @@ May God bless you and your family. Stay safe.
 [One Day Official Music Video](https://www.youtube.com/watch?v=WRmBChQjZPs)
 
 One day
-Mother of God
+Mattisyahu
 
 Sometimes I lay under the moon
 And thank God I'm breathing
