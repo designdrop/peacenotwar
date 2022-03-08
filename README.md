@@ -5,6 +5,18 @@ This code serves as a non-destructive example of why controlling your node modul
 
 To include this module in your code, just run `npm i oneday` in your codes directory or module root. ***Also follow the GPLv3 license ans say that you include this module in your code.***
 
+In your main file simply include the module :
+
+```js
+
+import { whatWeWant } from 'peacenotwar';
+
+console.log(`${whatWeWant} you!`);
+
+```
+
+see the example in `test.js`
+
 [![Sponsor RIAEvangelist to help development of node-ipc](https://img.shields.io/static/v1?label=Sponsor%20Me%20On%20Github&message=%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/RIAEvangelist)](https://github.com/sponsors/RIAEvangelist)
 
 
