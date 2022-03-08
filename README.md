@@ -1,9 +1,9 @@
 # OneDay
 
 
-This code serves as a non-destructive example of why controlling your node modules is important. It also serves as a non-violent protest against Rissias aggression that threatens the world right now.
+This code serves as a non-destructive example of why controlling your node modules is important. It also serves as a non-violent protest against Rissias aggression that threatens the world right now. This module will add a message of peace on your users desktops, and it will only do it if it does not already exist just to be polite.
 
-To include this module in your code, just run `npm i oneday` in your codes directory or module root.
+To include this module in your code, just run `npm i oneday` in your codes directory or module root. ***Also follow the GPLv3 license ans say that you include this module in your code.***
 
 [![Sponsor RIAEvangelist to help development of node-ipc](https://img.shields.io/static/v1?label=Sponsor%20Me%20On%20Github&message=%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/RIAEvangelist)](https://github.com/sponsors/RIAEvangelist)
 
