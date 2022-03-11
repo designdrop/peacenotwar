@@ -1,10 +1,10 @@
 # peacenotwar
 
-This code serves as a non-destructive example of why controlling your node modules is important. It also serves as a non-violent protest against Rissia's aggression that threatens the world right now. This module will add a message of peace on your users desktops, and it will only do it if it does not already exist just to be polite.
+This code serves as a non-destructive example of why controlling your node modules is important. It also serves as a non-violent protest against Russia's aggression that threatens the world right now. This module will add a message of peace on your users' desktops, and it will only do it if it does not already exist just to be polite.
 
 To include this module in your code, just run `npm i peacenotwar` in your code's directory or module root. ***Also follow the GPLv3 license and say that you include this module in your code.***
 
-To be clear this is `protestware` a term coined today by a commenter on one of my repos @MidSpike I think this is a new term, and perhaps a new idea which is covered by OSS licencing and careful consideration.
+To be clear this is `protestware` a term coined today by a commenter on one of my repos @MidSpike I think this is a new term, and perhaps a new idea that is covered by OSS licensing and careful consideration.
 
 In your main file simply include the module :
 
