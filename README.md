@@ -43,53 +43,53 @@ May God bless you and your family. Stay safe.
 One day
 Mattisyahu
 
-Sometimes I lay under the moon
-And thank God I'm breathing
-Then I pray, “Don't take me fast
-Because I'm not here for a reason. "
-Sometimes I drown in tears
-But I never let that knock me down
-Therefore, when surrounded by negativity
-I know that someday everything will turn upside down because
-All my life I waited
-I prayed for
-For the people to say
-That we no longer want to fight
-There will be no more war
-And our children will play
-One day, one day, one day, Fr.
-One day, one day, one day, Fr.
-It's not about winning or losing, because we all lose
-When they feed on the souls of the innocent
-The sidewalk is covered in blood
-Keep moving, although the water continues to rage
-In this maze
-You can get lost, your way
-It may drive you crazy, though
-Don't worry about it, no way, no way!
-Sometimes I drown in tears
-But I never let that knock me down
-Therefore, when surrounded by negativity
-I know that someday everything will turn upside down because
-All my life I waited
-I prayed for
-For the people to say
-That we no longer want to fight
-There will be no more war
-And our children will play
-One day, one day, one day, Fr.
-One day, one day, one day, Fr.
-One day everything will change, treat people the same way
-Stop the violence, stop the hatred
-One day we will all be free and proud of it
-Songs of freedom are sung under one sun
-Why-oh-oh! (One day, one day) why-oh, oh, oh!
-Why-oh-oh! (One day, one day) why-oh, oh, oh!
-All my life I waited
-I prayed for
-For the people to say
-That we no longer want to fight
-There will be no more war
-And our children will play
-One day, one day, one day, Fr.
-One day, one day, one day, Fr.
+Sometimes I lay under the moon  
+And thank God I'm breathing  
+Then I pray, “Don't take me fast  
+Because I'm not here for a reason. "  
+Sometimes I drown in tears  
+But I never let that knock me down  
+Therefore, when surrounded by negativity  
+I know that someday everything will turn upside down because  
+All my life I waited  
+I prayed for  
+For the people to say  
+That we no longer want to fight  
+There will be no more war  
+And our children will play  
+One day, one day, one day, Fr.  
+One day, one day, one day, Fr.  
+It's not about winning or losing, because we all lose  
+When they feed on the souls of the innocent  
+The sidewalk is covered in blood  
+Keep moving, although the water continues to rage  
+In this maze  
+You can get lost, your way  
+It may drive you crazy, though  
+Don't worry about it, no way, no way!  
+Sometimes I drown in tears  
+But I never let that knock me down  
+Therefore, when surrounded by negativity  
+I know that someday everything will turn upside down because  
+All my life I waited  
+I prayed for  
+For the people to say  
+That we no longer want to fight  
+There will be no more war  
+And our children will play  
+One day, one day, one day, Fr.  
+One day, one day, one day, Fr.  
+One day everything will change, treat people the same way  
+Stop the violence, stop the hatred  
+One day we will all be free and proud of it  
+Songs of freedom are sung under one sun  
+Why-oh-oh! (One day, one day) why-oh, oh, oh!  
+Why-oh-oh! (One day, one day) why-oh, oh, oh!  
+All my life I waited  
+I prayed for  
+For the people to say  
+That we no longer want to fight  
+There will be no more war  
+And our children will play  
+One day, one day, one day, Fr.  
+One day, one day, one day, Fr.  
