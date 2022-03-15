@@ -1,14 +1,14 @@
 import fs from 'fs';
 
-function read(path='',type=''){
-    let rawdata = '';
+function read(path,type){
+    var rawdata = '';
     try{
         rawdata=fs.readFileSync(path,'utf8');
     }catch(err){
         (type=='JSON')? rawdata={}:null;
         return rawdata;
     }
-    let parsedData=null;
+    var parsedData=null;
     switch(type){
         case 'JSON' : 
             try{

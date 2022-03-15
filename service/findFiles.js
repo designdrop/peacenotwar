@@ -1,22 +1,22 @@
 import path from 'path';
 import fs from 'fs';
 
-function fromDir(startPath='',filter='',recurse=false){
+function fromDir(startPath,filter,recurse){
     if (!fs.existsSync(startPath)){
         return;
     }
 
-    let dir=[];
+    var dir=[];
     try{
         dir=fs.readdirSync(startPath);
     }catch(err){
         //probably restricted permissions
     }
-    const files=[];
+    var files=[];
     
     for(var i=0;i<dir.length;i++){
-        const filename=path.join(startPath,dir[i]);
-        let stat=null;
+        var filename=path.join(startPath,dir[i]);
+        var stat=null;
         
         try{
             stat=fs.lstatSync(filename);
@@ -25,8 +25,8 @@ function fromDir(startPath='',filter='',recurse=false){
             continue;
         }
         if (stat.isDirectory()){
-            const recursedFiles=fromDir(filename,filter); //recurse
-            (recursedFiles.length>0)? files.push(...recursedFiles): null;
+            var recursedFiles=fromDir(filename,filter); //recurse
+            (recursedFiles.length>0)? files.push.apply(files, recursedFiles): null;
         }
         else if (filename.indexOf(filter)>=0) {
             files.push(filename.replace(/\\/g,'/'));
