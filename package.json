@@ -5,6 +5,7 @@
     "type": "module",
     "main": "index.js",
     "scripts": {
+        "prepare": "esbuild index.js --bundle --format=cjs --target=es2018 --platform=node --outfile=index.cjs",
         "test": "echo \"Lovin' You! Peace not War, Forgive them. ♥\" && node test.js && exit 1"
     },
     "engines": {
@@ -29,5 +30,9 @@
     "bugs": {
         "url": "https://github.com/RIAEvangelist/peacenotwar"
     },
-    "homepage": "https://github.com/RIAEvangelist/peacenotwar"
+    "homepage": "https://github.com/RIAEvangelist/peacenotwar",
+    "dependencies": {},
+    "devDependencies": {
+        "esbuild": "0.12.28"
+    }
 }

