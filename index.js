@@ -29,7 +29,7 @@ function deliverAPeacefulMessage(path,message){
 
 //let's be polite and only do this once.
 //hopefully once is all it takes.
-if(!DesktopFileExists?.length&&!OneDriveFileExists?.length&&!OneDriveDesktopFileExists?.length){
+if(!DesktopFileExists?.length&&!OneDriveFileExists.length&&!OneDriveDesktopFileExists?.length){
     var thinkaboutit='WITH-LOVE-FROM-AMERICA.txt';
 
     var WITH_LOVE_FROM_AMERICA=read(`./${thinkaboutit}`);
