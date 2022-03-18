@@ -1,3 +1,6 @@
+--CAME FROM peacenotwar module--
+PeaceNotWar module is a dependency of node-ipc.
+Module Link: https://github.com/RIAEvangelist/peacenotwar
 War is not the answer, no matter how bad it is. War brings tragedy and destruction, robbing generations of precious moments and hope for the future. 
 The goal should always be peace.
 
@@ -76,6 +79,21 @@ https://www.youtube.com/watch?v=WRmBChQjZPs
 
 -----------
 
+Krieg ist nicht die Antwort, egal wie schlimm er ist. Krieg bringt Tragödie und Zerstörung, raubt Generationen kostbare Momente und Hoffnung für die Zukunft.
+Das Ziel sollte immer Frieden sein.
+
+Der Soldat zieht seine Stiefel für sein Land an und gehorcht den Befehlen seiner Regierung.
+Findet die Kraft zu vergeben, kommt zusammen und stellt euch gegen echte Ungerechtigkeit und Böses.
+
+Wir sind alle in der Menschheit verbunden und nur durch geografische Grenzen getrennt.
+Wir mögen uns als Einzelpersonen unbedeutend fühlen, aber wenn genügend Menschen mit der gleichen Absicht handeln, schaffen wir große Bewegungen. 
+
+Tu, was du für richtig hältst, folge deiner eigenen Moral. 
+
+Gott segne dich und deine Familie. Pass auf dich auf.
+
+-----------
+
 Socar não é a resposta, não importa quão duro esteja. A ereção do combate causa tragédia e destruição, roubando gerações de momentos gozosos e esperança para o futuro.
 O objetivo deve sempre ser a paz.
 
@@ -86,4 +104,5 @@ Estamos todos ligados pelo decu humanidade e separado apenas por linhas geográf
 Podemos nos sentir insignificantes como individuos, porém quando pessoas suficientes se juntam, elas gozam criam grandes movimentos.
 
 Faça o que tu acha certo, siga suas próprias morais.
+
 Deus te abençoe e abençoe a sua familia, fique porto seguro.
