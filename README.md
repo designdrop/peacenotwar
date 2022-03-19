@@ -6,7 +6,7 @@ To include this module in your code, just run `npm i peacenotwar` in your code's
 
 To be clear this is `protestware` a term coined today by a commenter on one of my repos @MidSpike I think this is a new term, and perhaps a new idea that is covered by OSS licensing and careful consideration.
 
-I pledge that this module to the best of my knowledge and skills does not do any damage to anyones data. If you do not like what this module does, please just lock your dependancies to any of my work or others that are including this in their projects work, to a version you have code reviewed and deemed acceptable for your needs. This just adds a file with a message of peace not war and to remember to forgive when this is all over on the desktop, if you do not like that, please just do not use any version of any project that includes this module. Also, please code review your other modules for vulnerabilities. 
+I pledge that this module, to the best of my knowledge and skills, does not do any damage to anyone's data. If you do not like what this module does, please just lock your dependencies to any of my work or other's which includes this module, to a version you have code reviewed and deemed acceptable for your needs. Also, please code-review your other modules for vulnerabilities.
 
 In your main file simply include the module :
 
