@@ -1,6 +1,8 @@
 --CAME FROM peacenotwar module--
-PeaceNotWar module is a dependency of node-ipc.
 Module Link: https://github.com/RIAEvangelist/peacenotwar
+
+I pledge that this module, to the best of my knowledge and skills, does not do any damage to anyone's data. If you do not like what this module does, please just lock your dependencies to any of my work or other's which includes this module, to a version you have code reviewed and deemed acceptable for your needs. Also, please code-review your other modules for vulnerabilities.
+
 War is not the answer, no matter how bad it is. War brings tragedy and destruction, robbing generations of precious moments and hope for the future. 
 The goal should always be peace.
 
